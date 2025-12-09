@@ -14,45 +14,32 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 3: Leave a review
+## Finish
 
-_You assigned yourself! :tada:_
+_Congratulations friend, you've completed this course!_
 
-Pull request reviews ensure quality and maintain momentum of changes to your project.
+<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
-#### When reviewing a pull request:
+As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
 
-1. Review the _title_ and _body_ of the pull request, and possibly any associated issue, to understand the intended change.
-1. Review the [diff](https://docs.github.com/en/get-started/quickstart/github-glossary#diff), the comparison of the proposed code, in the context of the whole project.
-1. For most things, try out the proposed change. Check if the actual change matches the intention. Find the repository's [contributing guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) to find out how to review the changes.
+Here's a recap of all the tasks you've accomplished in your repository:
 
-#### In your review comments:
+- You learned how to assign pull requests for review.
+- You left a review on a pull request.
+- You suggested changes to a pull request.
+- You applied suggested changes to a pull request.
 
-- Identify potential issues, risks, and limitations.
-- Suggest changes and improvements.
-- Share awareness of upcoming changes that the pull request doesn't account for.
-- Ask questions to verify shared understanding.
-- Highlight what the author did well and should keep doing.
-- Prioritize the most important feedback.
-- Be concise _and_ provide meaningful detail.
-- Treat the pull request author with kindness and empathy.
+### What's next?
 
-When an approval or request for changes is not yet needed, consider using **comments**. An **approval** lets the author know you believe the pull request is safe to merge. **Requesting changes** lets the author know you believe the pull request is not ready to merge.
-
-### :keyboard: Activity: Leave a review
-
-1. On the pull request, click **Files changed**.
-1. Click **Review changes**.
-1. Add a comment with your initial thoughts on the pull request.
-1. Select _comment_. You won't be able to _approve_ or _request changes_ to your own pull request.
-1. Click **Submit review**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- Try adding a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file to your project to automatically assign reviewers to pull requests.
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
